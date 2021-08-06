@@ -1,0 +1,59 @@
+.moumi-color{
+    background-color: rgb(250, 217, 217);
+}
+
+.moumi-navbar-image{
+    width: 10%;
+    height: 10%;
+}
+
+.moumi-navbar-image-cart{
+    width: 5%;
+    height: 5%;
+}
+
+.moumi-feature-image{
+    width: 350px;
+    height: 450px;
+}
+
+.moumi-button{
+    width: 99px;
+}
+
+.moumi-fetured-product-image{
+    width: 250px;
+    height: 300px;
+}
+
+.moumi-footer-image{
+    margin-left: 35%;
+}
+
+.moumi-app-store-image{
+    width: 55%;
+    height: 55%;
+}
+
+.moumi-play-store-image{
+    width: 100%;
+    height: 120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+.moumi-button{
+    width: 100px;
+    }
+}
